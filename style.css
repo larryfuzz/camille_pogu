@@ -222,7 +222,23 @@ section
 	width: 300px;
 	margin: 5px;
 }
-.afterhomework_2018{
-	display: flex;
-	justify-content: center;	
+.collab_5_after{	
+	
+	margin: 5px;
 }
+.collab_5_after_MEP{	
+	display: flex;
+	justify-content: space-between;
+}
+
+
+
+
+#communication_impossible{
+	width: 700px; 
+	display: flex;
+	justify-content: space-between;	
+	
+}
+
+
