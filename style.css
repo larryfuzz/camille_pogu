@@ -147,11 +147,11 @@ section
 /////////////////////////////////////////////////////////////////////////////////////////////////////*/
 
 
-
-/*////////////////////////////////////////// ETENDUES EAU SALEE //////////////////////////////////////////*/
-
+/*////////////////////////////////////////// ECRAN //////////////////////////////////////////*/
 
 
+
+/*////////////////////////////////////////// ETENDUE EAU SALEE //////////////////////////////////////////*/
 #etendue_presentation{
 width: 50%;
 margin-bottom: 5%; 
@@ -161,132 +161,148 @@ margin-bottom: 5%;
 	padding-bottom: 0px;
 }
 /*/////////////////////////////////////////*/
-#etendue_photo_1{
-	
+#etendue_article_1{
 	width: 50%;
-	margin-bottom: 0; 
-	
+	margin-bottom: 5%; 
 	}
-
 /*/////////////////////////////////////////*/
-#etendue_photo_2{
+#etendue_article_2{
 	padding-right: 20%;
-	margin-bottom: 0; 
+	margin-bottom: 5%; 
 	position: relative;
 }
-/*#ecran_matin{
-	position: relative;
-}*/
-#ecran_brique{
+#etendue_figcaption_photo_2{
+	margin-top: -17%;
+	margin-bottom: 17%;
+	padding-left: 15%;
+	font-size: 11px;
+}
+#etendue_photo_3{
 	position: absolute;
 	right: 10%;
 	top: 3%;
 }
 /*/////////////////////////////////////////*/
-#etendue_photo_3{
-	position: relative;
-	
+#etendue_article_3{
+	position: relative;	
 }
-#ecran_deuxième_mail{
+#etendue_photo_4{
 	margin-left: 15%;
-	
-	
 }
-#ecran_escalier{
+#etendue_photo_5{
 	position: absolute;
 	right: 3%;
 	top: 25%;
-	
+}
+#etendue_figcaption_photo_5{
+	position: absolute;
+	right: 5%;
+	bottom: -15%;
+	font-size:9px;
 }
 /*/////////////////////////////////////////*/
-#etendue_photo_4{
+#etendue_article_4{
 	position: relative;	
 }
-#ecran_riviere_2018{
+#etendue_photo_6{
 	margin-top: -50%;
 	margin-left: 15%;
-	
-	
 }
-#ecran_riviere_2016{
+#etendue_figcaption_photo_6{
+	font-size: 7px;
+	position: absolute;
+	bottom: 25%;
+	left: 18%;
+	color: #bbb;
+}
+#etendue_photo_7{
 	position: absolute;
 	right: 5%;
 	top: 0%;
 }
 /*/////////////////////////////////////////*/
-#etendue_photo_5{
+#etendue_article_5{
 	position: relative;
 	width: 70%;
-	
 }
-#ecran_grotte{
+#etendue_photo_8{
 	width: 100%;
 }
-#ecran_lettre{
+#etendue_photo_9{
 	position: absolute;
 	width: 20%;
 	bottom: 15%;
 	left: 30%;
 }
-#ecran_photo3{
+#etendue_photo_10{
 	position: absolute;
 	width: 35%;
 	right: 13%;
 	bottom: 20%;
 }
 /*/////////////////////////////////////////*/
-#etendue_photo_6{
+#etendue_article_6{
 	position: relative;
 	width: 100%;
 }
-#ecran_escalier2{
+#etendue_photo_11{
 	width: 90%;
-	
 }
-
-#ecran_medical{
+#etendue_photo_12{
 	position: absolute;
 	top: -10%;
 	left: 26%;
 	width: 30%;
 }
-#ecran_photo_4{
+#etendue_photo_13{
 	position: absolute;
 	right: 15%;
 	top: -17%;
 	width: 30%;
 }
-#ecran_hotel{
+#etendue_photo_14{
 	position: absolute;
 	bottom: -20%;
 	left: 15%;
 	width: 40%;
 }
-#ecran_voiture{
+#etendue_photo_15{
 	position: absolute;
 	bottom: -10%;
 	width: 20%;
 	right: 20%;
 }
 /*/////////////////////////////////////////*/
-#etendue_photo_7{
-	margin-top:20%;
+#etendue_article_7{
+	margin-top:15%;
 	width: 50%;
 }
+/*////////////////////////////////// PORTRAIT A L HUILE //////////////////////////////////////////*/
 
 
 
-/*.photo{	
-	top: auto;
-	bottom: auto;
-	left: auto;
-	right: auto;
+/*//////////////////////////////////////////  LIVING //////////////////////////////////////////*/
+
+
+/*////////////////////////////////////////// LA COMMUNICATION //////////////////////////////////////////*/
+#communication_impossible{
+	width: 700px; 
+	display: flex;
+	justify-content: space-around;
+	
 }
-*/
+/*////////////////////////////////////////// APPLIQUE //////////////////////////////////////////*/
+
+/*////////////////////////////////////////// SCULPTURE 14//////////////////////////////////////////*/
 
 
+/*////////////////////////////////////////// 3 SOLUTIONS//////////////////////////////////////////*/
 
 
+/*////////////////////////////////////////// CHANGEMENT D ETAT//////////////////////////////////////////*/
+
+
+/*////////////////////////////////////////// COLLABORATIONS//////////////////////////////////////////*/
 .wet_flower{
 	display: flex;
 	justify-content: center;
@@ -295,11 +311,6 @@ margin-bottom: 5%;
 	width: 300px;
 	margin: 10px;
 }
-
-
-
-
-
 .photo_collapsing_market{
 	width: 620px;
 }
@@ -311,12 +322,9 @@ margin-bottom: 5%;
 #collapsing_market p{
 	width: 620px;
 }
-
 #reborn p{
-	
 	margin: 5px;
 	width: 620px;
-
 }
 .reborn_1{
 	display: flex;
@@ -334,18 +342,6 @@ margin-bottom: 5%;
 	width: 620px;
 	margin: 5px;
 }
-
-
-
-/*
-.mise_en_page_test{
-	
-	width: 620px;
-	margin: 5px;
-}
-*/
-
-
 .photo_4_afterhomework_2018{	
 	width: 300px;
 	margin: 5px;
@@ -358,15 +354,11 @@ margin-bottom: 5%;
 	display: flex;
 	justify-content: space-between;
 }
+/*////////////////////////////////////////// EXPOSITION PRESSE//////////////////////////////////////////*/
 
 
+/*////////////////////////////////////////// CONTACT//////////////////////////////////////////*/
 
 
-#communication_impossible{
-	width: 700px; 
-	display: flex;
-	justify-content: space-between;	
-	
-}
 
 
