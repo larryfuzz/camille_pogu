@@ -20,10 +20,11 @@ article{
 figure{
 	margin: 0px;
 }
-figcaption{
+/*figcaption{
 	margin-top: 5px;
 	text-align: right;
 }
+*/
 
 
 @font-face {
@@ -147,14 +148,141 @@ section
 
 
 
+/*////////////////////////////////////////// ETENDUES EAU SALEE //////////////////////////////////////////*/
 
-.photo{	
+
+
+#etendue_presentation{
+width: 50%;
+margin-bottom: 5%; 
+}
+#etendue_titre{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+/*/////////////////////////////////////////*/
+#etendue_photo_1{
+	
+	width: 50%;
+	margin-bottom: 0; 
+	
+	}
+
+/*/////////////////////////////////////////*/
+#etendue_photo_2{
+	padding-right: 20%;
+	margin-bottom: 0; 
+	position: relative;
+}
+/*#ecran_matin{
+	position: relative;
+}*/
+#ecran_brique{
+	position: absolute;
+	right: 10%;
+	top: 3%;
+}
+/*/////////////////////////////////////////*/
+#etendue_photo_3{
+	position: relative;
+	
+}
+#ecran_deuxième_mail{
+	margin-left: 15%;
+	
+	
+}
+#ecran_escalier{
+	position: absolute;
+	right: 3%;
+	top: 25%;
+	
+}
+/*/////////////////////////////////////////*/
+#etendue_photo_4{
+	position: relative;	
+}
+#ecran_riviere_2018{
+	margin-top: -50%;
+	margin-left: 15%;
+	
+	
+}
+#ecran_riviere_2016{
+	position: absolute;
+	right: 5%;
+	top: 0%;
+}
+/*/////////////////////////////////////////*/
+#etendue_photo_5{
+	position: relative;
+	width: 70%;
+	
+}
+#ecran_grotte{
+	width: 100%;
+}
+#ecran_lettre{
+	position: absolute;
+	width: 20%;
+	bottom: 15%;
+	left: 30%;
+}
+#ecran_photo3{
+	position: absolute;
+	width: 35%;
+	right: 13%;
+	bottom: 20%;
+}
+/*/////////////////////////////////////////*/
+#etendue_photo_6{
+	position: relative;
+	width: 100%;
+}
+#ecran_escalier2{
+	width: 90%;
+	
+}
+
+#ecran_medical{
+	position: absolute;
+	top: -10%;
+	left: 26%;
+	width: 30%;
+}
+#ecran_photo_4{
+	position: absolute;
+	right: 15%;
+	top: -17%;
+	width: 30%;
+}
+#ecran_hotel{
+	position: absolute;
+	bottom: -20%;
+	left: 15%;
+	width: 40%;
+}
+#ecran_voiture{
+	position: absolute;
+	bottom: -10%;
+	width: 20%;
+	right: 20%;
+}
+/*/////////////////////////////////////////*/
+#etendue_photo_7{
+	margin-top:20%;
+	width: 50%;
+}
+
+
+
+/*.photo{	
 	top: auto;
 	bottom: auto;
 	left: auto;
 	right: auto;
 }
-
+*/
 
 
 
