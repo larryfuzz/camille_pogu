@@ -19,6 +19,7 @@ article{
 }
 figure{
 	margin: 0px;
+	padding: 0px;
 }
 /*figcaption{
 	margin-top: 5px;
@@ -149,7 +150,11 @@ section
 
 /*////////////////////////////////////////// ECRAN //////////////////////////////////////////*/
 
-
+#text_ecran{
+	width: 60%;
+	padding-top: 3%;
+	margin: 0%;
+}
 
 /*////////////////////////////////////////// ETENDUE EAU SALEE //////////////////////////////////////////*/
 #etendue_presentation{
@@ -342,10 +347,7 @@ margin-bottom: 5%;
 	width: 620px;
 	margin: 5px;
 }
-.photo_4_afterhomework_2018{	
-	width: 300px;
-	margin: 5px;
-}
+
 .collab_5_after{	
 	
 	margin: 5px;
@@ -354,6 +356,63 @@ margin-bottom: 5%;
 	display: flex;
 	justify-content: space-between;
 }
+
+/*/////////////////////////////////////*/
+
+#tee-shirt_resine{
+	display: grid;
+	width: 70%;
+	
+	margin: auto;	
+	grid-gap: 2%;
+	padding-bottom: 5%;
+
+}
+#afterhomework_item1{	
+	grid-column: 1 / 2;
+	grid-row: 1/2;
+	width: 100%;
+	
+	
+}
+#afterhomework_item2{
+	grid-column: 3 / 4;
+	grid-row: 1/2;
+	width: 100%;
+	
+	
+	
+}
+#afterhomework_item3{
+	grid-column: 1 / 2;
+	grid-row: 2/3;
+	width: 80%;
+	
+	
+}
+#afterhomework_item4{
+	grid-column: 3 / 4;
+	grid-row: 2/3;
+	width: 120%;
+	
+}
+#afterhomework_item5{
+	grid-column: 1 / 4;
+	grid-row: 3/4;
+	width: 70%;
+	height: 100%;
+	
+
+}
+
+
+#afterhomework_2018 > p {
+	display: block;
+	width: 70%;
+	margin: auto;
+	
+}
+
 /*////////////////////////////////////////// EXPOSITION PRESSE//////////////////////////////////////////*/
 
 
