@@ -33,8 +33,13 @@
 			<section id="acceuil">
 
                 <?php
+
                 foreach($articles as $article){
-                    echo $article['text'];
+                ?>
+                <article>
+                    <?= $article['text']; ?>
+                    </article>
+                <?php  
                 }
                 ?> 
 			</section>
