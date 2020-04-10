@@ -25,11 +25,11 @@ figure{
 }
 @font-face {
     font-family: 'Fancy_Pansy.ttf';
-    src: url('Fancy_Pansy.ttf');
+    src: url('public/Fancy_Pansy.ttf');
 }
 @font-face {
     font-family: 'Overpass-ExtraLight.ttf';
-    src: url('Overpass-ExtraLight.ttf');
+    src: url('public/Overpass-ExtraLight.ttf');
 }
 /*/////////////////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////// NAVIGATION  //////////////////////////////////////////////////
